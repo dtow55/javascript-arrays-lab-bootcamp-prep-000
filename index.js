@@ -27,3 +27,13 @@ function prependKitten(name) {
   var newArray = [name, ...kittens];
   return newArray;
 }
+
+function removeLastKitten() {
+  var newArray = 
+  return newArray
+}
+
+function removeFirstKitten() {
+  var newArray = 
+  return newArray 
+}
